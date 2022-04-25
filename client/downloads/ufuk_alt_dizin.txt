@@ -1,0 +1,3 @@
+ufuk kullanıcısı alt dizini için örnek dosya
+dosya satır 2
+dosya satır 3
